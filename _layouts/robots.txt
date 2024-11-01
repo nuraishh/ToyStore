@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /contact/
+
+Sitemap: https://nuraishh.github.io/ToyStore/sitemap.xml
